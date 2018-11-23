@@ -9,8 +9,7 @@
 ---
 @title[about me]
 ### About me...
-+++
-@title[about me]
+
 @ul
 - GIS Technology Specialist
 - University of Louisville Center for GIS

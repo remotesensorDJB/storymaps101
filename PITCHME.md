@@ -34,7 +34,7 @@
 > @size[.6em] Story Maps leverage modern web development tools to provide an  **engaging, dynamic user experience** that grounds your story in its **geographic setting**.
 +++
 ### what are Story Maps 
-> @size[.6em] Story Maps are hosted applications that live in the cloud through common storymapping platforms like ![ESRI Story Maps](https://storymaps.esri.com), or ![KnghtLabs StoryMapJS](https://storymap.knightlab.com/) 
+> @size[.6em] Story Maps are hosted applications that live in the cloud through common storymapping platforms like [ESRI Story Maps](https://storymaps.esri.com), or [KnghtLabs StoryMapJS](https://storymap.knightlab.com/) 
 
 ---
 

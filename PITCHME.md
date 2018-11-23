@@ -27,10 +27,17 @@
 - Some examples
 - More resources
 ---
-### what is gis? 
-> @size[.6em](A geographic information system <GIS> is a framework for gathering, managing, and analyzing data. Rooted in the science of geography, GIS integrates many types of data. It analyzes spatial location and organizes layers of information into visualizations using maps and 3D scenes. ​With this unique capability, GIS reveals deeper insights into data, such as patterns, relationships, and situations—helping users make smarter decisions.) 
-###### -Environmental Research Systems Institute (ESRI)
+### what are Story Maps 
+> @size[.6em] Story Maps are **lightweight web applications** that mash up interactive GIS **maps**, photos/videos and other **multimedia content**, and text-based **narratives**, to tell a story about places or phenomenon that are explicitly located in space and time. 
 +++
+### what are Story Maps
+> @size[.6em] Story Maps leverage modern web development tools to provide an  **engaging, dynamic user experience** that grounds your story in its **geographic setting**.
++++
+### what are Story Maps 
+> @size[.6em] Story Maps are hosted applications that live in the cloud through common storymapping platforms like ![ESRI Story Maps](https://storymaps.esri.com), or ![KnghtLabs StoryMapJS](https://storymap.knightlab.com/) 
+
+---
+
 @title[gis components]
 ![GIS Components](images/components.jpg)
 +++

@@ -51,7 +51,7 @@ Here's how you can too!
 --- 
 @title[What are Story Maps]
 ### The Plan
-- The Five Minute Story Map!
+- ~~The Five Minute Story Map!~~
 - **What are Story Maps?** 
 - Why use Story Maps?
 - Activity: Check out the Story Maps Gallery 
@@ -78,8 +78,8 @@ Here's how you can too!
 ---
 @title[Why use Story Maps?]
 ### The Plan
-- The Five Minute Story Map!
-- What are Story Maps? 
+- ~~The Five Minute Story Map!~~
+- ~~What are Story Maps?~~ 
 - **Why use Story Maps?** 
 - Activity: Check out the Story Maps Gallery 
 - How do we make Story Maps? 
@@ -111,7 +111,7 @@ Here's how you can too!
 - Some examples
 - More resources
 - Live Exercise: A Story Map of Thrones
----
++++
 ### Activity: Check out the Story Maps Gallery
 - **Time**: 5 minutes
 - **Task**: Go to [ESRI's Story Maps Gallery](http://storymaps.arcgis.com) and browse the public Story Maps
@@ -121,8 +121,8 @@ Here's how you can too!
 Take note of...
 - **Why** you find it effective
 - **Which** template was used? Journal? Cascade?
-- **How** you might employ a similar map in your own teaching and/por research
-
+- **How** you might employ a similar map in your own teaching and/or research
+---
 ### How do we Build Story Maps?
 
 - Talk about basics of ArcGIS Online

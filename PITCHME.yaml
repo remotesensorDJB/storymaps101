@@ -1,5 +1,5 @@
 theme : sky
 theme-override : PITCHME.css
-background : images/Topographic-Map-5.png
+# background : images/Topographic-Map-5.png
 transition : slide
 logo : images/ulcgis.png

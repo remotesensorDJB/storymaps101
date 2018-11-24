@@ -34,7 +34,7 @@
 ### The Plan
 - **The Five Minute Story Map!**
 - What are Story Maps? 
-- Why should we use them? 
+- Why use Story Maps? 
 - Activity: Check out the Story Maps Gallery 
 - How do we make Story Maps? 
 - Some examples

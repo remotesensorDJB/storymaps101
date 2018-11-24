@@ -24,6 +24,7 @@
 - The Five Minute Story Map!
 - What are Story Maps? 
 - Why should we use them? 
+- Activity: Check out the Story Maps Gallery 
 - How do we make them? 
 - Some examples
 - More resources
@@ -34,6 +35,7 @@
 - **The Five Minute Story Map!**
 - What are Story Maps? 
 - Why should we use them? 
+- Activity: Check out the Story Maps Gallery 
 - How do we make them? 
 - Some examples
 - More resources
@@ -47,6 +49,17 @@ Here's how you can too!
 
 ##### [The Five Minute Story Map](https://docs.google.com/document/d/17qBNC64tqLMRPlIPAIV4bPz1utKzhUq6mv6vEbwQeYc/edit?usp=sharing)
 --- 
+@title[the plan]
+### The Plan
+- The Five Minute Story Map!
+- **What are Story Maps?** 
+- Why use Story Maps?
+- Activity: Check out the Story Maps Gallery 
+- How do we make them? 
+- Some examples
+- More resources
+- Live Exercise: A Story Map of Thrones
+---
 ### What are Story Maps? 
 > @size[.6em] Story Maps are **lightweight web applications** that mash up interactive GIS **maps**, photos/videos and other **multimedia content**, and text-based **narratives**, to tell a story about places or phenomenon that are explicitly located in space and time. 
 +++

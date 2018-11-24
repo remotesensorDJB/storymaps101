@@ -59,7 +59,7 @@ Here's how you can too!
 - Some examples
 - More resources
 - Live Exercise: A Story Map of Thrones
----
++++
 ### What are Story Maps? 
 > @size[.6em] Story Maps are **lightweight web applications** that mash up interactive GIS **maps**, photos/videos and other **multimedia content**, and text-based **narratives**, to tell a story about places or phenomenon that are explicitly located in space and time. 
 +++

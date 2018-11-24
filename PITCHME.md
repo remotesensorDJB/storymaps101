@@ -102,6 +102,7 @@ Here's how you can too!
 ### Why use Story Maps? 
 > @size[.6em] Story Maps encourage **critical thinking** and effective communication of data. 
 ---
+@title[Activity: Check out the Story Maps Gallery]
 ### The Plan
 - ~~The Five Minute Story Map!~~
 - ~~What are Story Maps?~~ 

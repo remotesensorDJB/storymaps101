@@ -23,9 +23,9 @@
 ### The Plan
 - The Five Minute Story Map!
 - What are Story Maps? 
-- Why should we use them? 
+- Why use Story Maps? 
 - Activity: Check out the Story Maps Gallery 
-- How do we make them? 
+- How do we make Story Maps? 
 - Some examples
 - More resources
 - Live Exercise: A Story Map of Thrones
@@ -36,11 +36,11 @@
 - What are Story Maps? 
 - Why should we use them? 
 - Activity: Check out the Story Maps Gallery 
-- How do we make them? 
+- How do we make Story Maps? 
 - Some examples
 - More resources
 - Live Exercise: A Story Map of Thrones
----
++++
 @title[the plan]
 ### The Five Minute Story Map
 Creating Story Maps is EASY! I can make one in literally five minutes! 
@@ -55,7 +55,7 @@ Here's how you can too!
 - **What are Story Maps?** 
 - Why use Story Maps?
 - Activity: Check out the Story Maps Gallery 
-- How do we make them? 
+- How Do we make Story Maps? 
 - Some examples
 - More resources
 - Live Exercise: A Story Map of Thrones
@@ -65,12 +65,26 @@ Here's how you can too!
 +++
 ### What are Story Maps?
 > @size[.6em] Story Maps leverage modern web development tools to provide an  **engaging, dynamic user experience** that grounds your story in its **geographic setting**.
+@ul
+- Everything happens...
+- Somewhere!
+@ulend
 +++
 ### What are Story Maps? 
 > @size[.6em] Story Maps are **free** and **open source**. Users can download and customize them right from the source code. Most Story Map template source code is hosted on [Github](https://www.google.com/search?q=esri+story+maps+github). 
 +++
 ### What are Story Maps? 
 > @size[.6em] Story Maps are hosted applications that live in the cloud through common storymapping platforms like [ESRI Story Maps](https://storymaps.esri.com), or [KnghtLabs StoryMapJS](https://storymap.knightlab.com/) 
+---
+### The Plan
+- The Five Minute Story Map!
+- What are Story Maps? 
+- **Why use Story Maps?** 
+- Activity: Check out the Story Maps Gallery 
+- How do we make Story Maps? 
+- Some examples
+- More resources
+- Live Exercise: A Story Map of Thrones
 ---
 ### Why use Story Maps? 
 > @size[.6em] Story Maps are an easy and effective way to share research results, fieldwork experiences, student project presentations, or engaged scholarship efforts. 
@@ -86,8 +100,28 @@ Here's how you can too!
 +++
 ### Why use Story Maps? 
 > @size[.6em] Story Maps encourage **critical thinking** and effective communication of data. 
-
 ---
+### The Plan
+- The Five Minute Story Map!
+- What are Story Maps? 
+- Why should we use them? 
+- **Activity: Check out the Story Maps Gallery** 
+- How do we make Story Maps? 
+- Some examples
+- More resources
+- Live Exercise: A Story Map of Thrones
+---
+### Activity: Check out the Story Maps Gallery
+- **Time**: 5 minutes
+- **Task**: Go to [ESRI's Story Maps Gallery](http://storymaps.arcgis.com) and browse the public Story Maps
+- **Objective**: Find one story map that you find compelling
++++
+### Activity: Check out the Story Maps Gallery
+Take note of...
+- **Why** you find it effective
+- **Which** template was used? Journal? Cascade?
+- **How** you might employ a similar map in your own teaching and/por research
+
 ### How do we Build Story Maps?
 
 - Talk about basics of ArcGIS Online

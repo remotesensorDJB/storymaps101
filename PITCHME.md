@@ -222,6 +222,33 @@ a set of spatial data.
 4. Maximum information at minimum costs
 5. Engage the emotion to engage the understanding  
 ---
+@title[Example Story Maps]
+### The Plan
+- ~~Demo: The Five Minute Story Map!~~
+- ~~What are Story Maps?~~ 
+- ~~Why should we use them?~~ 
+- ~~Activity: Check out the Story Maps Gallery~~ 
+- ~~How do we build Story Maps?~~ 
+- **Some examples**
+- More resources
+- Live Exercise: A Story Map of Thrones
++++
+### Some Examples
+##### Story Map Tour
+<iframe class = "stretch" data-src="https://esrimedia.maps.arcgis.com/apps/MapTour/index.html?appid=044d0dd78fb043c6918eaa495fae50c6"></iframe>
++++
+###Some Examples
+##### Story Map Series
+<iframe class="stretch" data-src="http://centerforgis.maps.arcgis.com/apps/MapSeries/index.html?appid=6075857164044d528bda12115bd1ab25"><iframe>
++++
+### Some Examples
+##### Swipe Compare Story Map
+<iframe class = "stretch" data-src="http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=8643552a3ca24585b4084a4fb20f5acf"></iframe>
++++
++++
+### Some Examples
+##### Spyglass Compare Story Map
+<iframe class = "stretch" data-src="
 @title[helpful links]
 - http://www.ulcgis.org
 - https://www.esri.com

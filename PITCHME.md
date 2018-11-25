@@ -21,22 +21,22 @@
 ---
 @title[The Plan]
 ### The Plan
-- The Five Minute Story Map!
+- Demo: The Five Minute Story Map!
 - What are Story Maps? 
 - Why use Story Maps? 
 - Activity: Check out the Story Maps Gallery 
-- How do we make Story Maps? 
+- How do we build Story Maps? 
 - Some examples
 - More resources
 - Live Exercise: A Story Map of Thrones
 ---
 @title[The Five Minute Story Map]
 ### The Plan
-- **The Five Minute Story Map!**
+- **Demo: The Five Minute Story Map!**
 - What are Story Maps? 
 - Why use Story Maps? 
 - Activity: Check out the Story Maps Gallery 
-- How do we make Story Maps? 
+- How do we build Story Maps? 
 - Some examples
 - More resources
 - Live Exercise: A Story Map of Thrones
@@ -51,11 +51,11 @@ Here's how you can too!
 --- 
 @title[What are Story Maps]
 ### The Plan
-- ~~The Five Minute Story Map!~~
+- ~~Demo: The Five Minute Story Map!~~
 - **What are Story Maps?** 
 - Why use Story Maps?
 - Activity: Check out the Story Maps Gallery 
-- How Do we make Story Maps? 
+- How Do we build Story Maps? 
 - Some examples
 - More resources
 - Live Exercise: A Story Map of Thrones
@@ -78,11 +78,11 @@ Here's how you can too!
 ---
 @title[Why use Story Maps?]
 ### The Plan
-- ~~The Five Minute Story Map!~~
+- ~~Demo: The Five Minute Story Map!~~
 - ~~What are Story Maps?~~ 
 - **Why use Story Maps?** 
 - Activity: Check out the Story Maps Gallery 
-- How do we make Story Maps? 
+- How do we build Story Maps? 
 - Some examples
 - More resources
 - Live Exercise: A Story Map of Thrones
@@ -104,35 +104,88 @@ Here's how you can too!
 ---
 @title[Activity: Check out the Story Maps Gallery]
 ### The Plan
-- ~~The Five Minute Story Map!~~
+- ~~Demo: The Five Minute Story Map!~~
 - ~~What are Story Maps?~~ 
 - ~~Why should we use them?~~ 
 - **Activity: Check out the Story Maps Gallery** 
-- How do we make Story Maps? 
+- How do we build Story Maps? 
 - Some examples
 - More resources
 - Live Exercise: A Story Map of Thrones
 +++
 ### Activity: Check out the Story Maps Gallery
 - **Time**: 5 minutes
-- **Task**: Go to [ESRI's Story Maps Gallery](http://storymaps.arcgis.com) and browse the public Story Maps
+- **Task**: Go to [ESRI's Story Maps Gallery](http://storymaps.arcgis.com/en/gallery/) and browse the public Story Maps
 - **Objective**: Find one story map that you find compelling
 +++
 ### Activity: Check out the Story Maps Gallery
 Take note of...
-- **Why** you find it effective
-- **Which** template was used? Journal? Cascade?
+- **Why** you find it effective (the topic? organization?, multimedia content?)
+- **Which** template was used? Tour? Journal? Cascade?
 - **How** you might employ a similar map in your own teaching and/or research
 ---
-### How do we Build Story Maps?
-
-- Talk about basics of ArcGIS Online
-- Difference between Feature Layer and Basemap
-- Difference between Web Map and Story Map/Web App 
-- Brief mention of KnightLab
-
+@title[Activity: How do we build Story Maps]
+### The Plan
+- ~~Demo: The Five Minute Story Map!~~
+- ~~What are Story Maps?~~ 
+- ~~Why should we use them?~~ 
+- ~~Activity: Check out the Story Maps Gallery~~ 
+- **How do we build Story Maps?** 
+- Some examples
+- More resources
+- Live Exercise: A Story Map of Thrones
 +++
+### How do we build Story Maps?
+Two main Story Map platforms...
+- [KnightLab StoryMapJS](https://storymap.knightlab.com/)
+    - Simple, interactive editing of locations and text
+    - Basic interface with limited customizations
+- [ESRI Story Maps](https://storymaps.arcgis.com)
+    - Runs on ArcGIS Online web GIS 
+    - Sophisticated data management tools
+    - Template options for custom look and feel
++++
+### How do we build Story Maps?
+##### ArcGIS Online
+- Cloud-based GIS environment by ESRI
+- Store/edit/display/analyze geographic data
+- Build **web maps** and **web apps** to **share** with users in an organizations or publicly.
++++
+### How do we build Story Maps?
+##### ArcGIS Online Key Terms
+**Feature Layer**
 
+Set of geographic features sharing the same geometry and attributes, hosted in ArcGIS Online. 
+![Feature Layer](images/link.png)
++++
+### How do we build Story Maps?
+##### ArcGIS Online Key Terms
+**Basemap**
+
+A tiled/slippy map that serves as the background for your Feature Layers
+![base map](images/basemap.jpg)
++++
+### How do we build Story Maps?
+##### ArcGIS Online Key Terms
+**Web Map**
+
+A map in AGOL that consumes Feature Layers and basemaps. Full featured environment for data editing, analysis, and visualization.
+![Web Map](images/webmap.PNG)
++++
+### How do we build Story Maps?
+##### ArcGIS Online Key Terms
+**Web App** 
+
+A front-end “wrapper” that consumes a web map and provides custom functionality to the end user.
+![Web App](images/webapp.PNG) 
++++
+### How do we build Story Maps?
+##### ArcGIS Online Key Terms
+**Story Map**
+
+A web app template that builds narratives around
+a set of spatial data. 
+![story map](images/storymap.PNG)
 ---
 @title[helpful links]
 - http://www.ulcgis.org

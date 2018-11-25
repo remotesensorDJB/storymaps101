@@ -153,28 +153,33 @@ Two main Story Map platforms...
 +++
 ### How do we build Story Maps?
 ##### ArcGIS Online Key Terms
-**Feature Layer**: A et of geographic features sharing the same geometry and attributes, hosted in ArcGIS Online. 
+**Feature Layer**: A set of geographic features sharing the same geometry and attributes, hosted in ArcGIS Online.
+ 
 ![Feature Layer](https://www.esri.com/arcgis-blog/wp-content/uploads/2013/02/features-92.jpg)
 +++
 ### How do we build Story Maps?
 ##### ArcGIS Online Key Terms
 **Basemap**: A static tiled map that serves as the background for your Feature Layers
+
 ![base map](images/basemap.jpg)
 +++
 ### How do we build Story Maps?
 ##### ArcGIS Online Key Terms
 **Web Map**: A map in AGOL that consumes Feature Layers and basemaps. Fully featured environment for data editing, analysis, and visualization.
+
 ![Web Map](images/webmap.PNG)
 +++
 ### How do we build Story Maps?
 ##### ArcGIS Online Key Terms
 **Web App**: A front-end “wrapper” that consumes a web map and provides a curated experience and select functionality to the end user.
+
 ![Web App](images/webapp.PNG) 
 +++
 ### How do we build Story Maps?
 ##### ArcGIS Online Key Terms
 **Story Map**: A web app template that builds narratives around
 a set of spatial data, text, and multimedia content. 
+
 ![story map](images/storymap.PNG)
 +++
 ### How do we build Story Maps?

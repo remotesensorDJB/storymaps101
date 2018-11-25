@@ -275,8 +275,8 @@ a set of spatial data, text, and multimedia content.
 ### Story Map Templates
 ##### [Cascade Template](https://storymaps.arcgis.com/en/app-list/cascade/) 
 - Full screen, scrolling application
-- "Flat design: nothing buried under mouse clicks
-- Most dynamic and sophisticated SM template
+- "Flat" design: nothing buried under mouse clicks
+- Most dynamic and sophisticated Story Map template
 +++
 ### Story Map Templates
 ##### Cascade Template

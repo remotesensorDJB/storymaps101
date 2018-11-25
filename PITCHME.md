@@ -283,11 +283,11 @@ a set of spatial data, text, and multimedia content.
 <iframe class = "stretch" data-src = "https://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=08c2849d3f1649758e40b8cfa67d0248"></iframe>
 +++
 ### Story Map Templates
-##### Cascade Template - Flat/scrolling navigation
+##### Cascade Template
 <iframe class = "stretch" data-src = "https://kentuckyblackfreedom.org/kentucky-freedom-struggle/index.html"></iframe>
 +++
 ### Story Map Templates
-##### Cascade Template - Flat/scrolling navigation
+##### Cascade Template
 <iframe class = "stretch" data-src = "https://storymaps.esri.com/stories/2018/anthropocene/2-the-land.html"></iframe>
 ---
 @title[More Resources]

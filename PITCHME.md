@@ -247,7 +247,7 @@ a set of spatial data.
 +++
 ### Some Examples
 ##### Story Map Journal
-<iframe class = "stretch" data-src = "http://centerforgis.maps.arcgis.com/apps/MapJournal/index.html?appid=7c3e27c2078f4e17a30b6b8b141998bc"></iframe>
+<iframe class = "stretch" data-src = "https://centerforgis.maps.arcgis.com/apps/MapJournal/index.html?appid=7c3e27c2078f4e17a30b6b8b141998bc"></iframe>
 +++
 ### Some Examples
 ##### Swipe Compare Story Map

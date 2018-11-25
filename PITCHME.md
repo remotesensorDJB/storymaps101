@@ -237,9 +237,9 @@ a set of spatial data.
 ##### Story Map Tour
 <iframe class = "stretch" data-src="https://esrimedia.maps.arcgis.com/apps/MapTour/index.html?appid=044d0dd78fb043c6918eaa495fae50c6"></iframe>
 +++
-###Some Examples
+### Some Examples
 ##### Story Map Series
-<iframe class = "stretch" data-src = "http://centerforgis.maps.arcgis.com/apps/MapSeries/index.html?appid=6075857164044d528bda12115bd1ab25"></iframe>
+<iframe class = "stretch" data-src = "https://centerforgis.maps.arcgis.com/apps/MapSeries/index.html?appid=6075857164044d528bda12115bd1ab25"></iframe>
 +++
 ### Some Examples
 ##### Swipe Compare Story Map

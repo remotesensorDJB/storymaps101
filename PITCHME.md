@@ -299,6 +299,7 @@ a set of spatial data.
 - **Time**: ~45 minutes
 - **Task**: Guided exercise to build a Cascade Story Map
 - **Objective**: Learn to upload data, create a web map, and create a Cascade Story Map.
+
 [A Story Map of Thrones!](https://docs.google.com/document/d/1GKNUkv7X6YJ0B-2siHUD2ZypOz47hA9IP3LfYg0GRvk/edit?usp=sharing)
 --- 
 @title[questions?]

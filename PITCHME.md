@@ -265,15 +265,41 @@ a set of spatial data.
 ##### Story Map Cascade
 <iframe class = "stretch" data-src = "https://storymaps.esri.com/stories/2018/anthropocene/2-the-land.html"></iframe>
 ---
-@title[helpful links]
-- http://www.ulcgis.org
-- https://www.esri.com
-- https://www.esri.com/training
-- https://www.arcgis.com
-- https://storymaps.arcgis.com
-- https://storymap.knightlab.com/ (Open Source Story Mapping)
-- https://qgis.org/ (Open Source Desktop GIS)
+@title[More Resources]
+### The Plan
+- ~~Demo: The Five Minute Story Map!~~
+- ~~What are Story Maps?~~ 
+- ~~Why should we use them?~~ 
+- ~~Activity: Check out the Story Maps Gallery~~ 
+- ~~How do we build Story Maps?~~ 
+- ~~Some examples~~
+- **More resources**
+- Live Exercise: A Story Map of Thrones
 +++
+@title[More Resources]
+### More Resources
+- https://www.esri.com/arcgis-blog/story-maps/
+- https://adventuresinmapping.com/
+- https://www.esri.com/training/
+- https://www.esri.com/about/newsroom/arcuser/make-your-story-map-successful/ 
+- https://www.esri.com/arcgis-blog/products/arcgis-online/uncategorized/twelve-days-of-story-map-tips/
+---
+@title[Example Story Maps]
+### The Plan
+- ~~Demo: The Five Minute Story Map!~~
+- ~~What are Story Maps?~~ 
+- ~~Why should we use them?~~ 
+- ~~Activity: Check out the Story Maps Gallery~~ 
+- ~~How do we build Story Maps?~~ 
+- ~~Some examples~~
+- ~~More resources~~
+- **Live Exercise: A Story Map of Thrones**
++++
+### Live Exercise: A Story Map of Thrones
+- **Time**: ~45 minutes
+- **Task**: Guided exercise to build a Cascade Story Map
+- **Objective**: Learn to upload data, create a web map, and create a Cascade Story Map.
+--- 
 @title[questions?]
 ### Any questions? 
 Please email me at <djbidd01@louisville.edu>

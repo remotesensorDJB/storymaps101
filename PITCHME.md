@@ -253,18 +253,17 @@ a set of spatial data.
 ##### Swipe Compare Story Map
 <iframe class = "stretch" data-src = "https://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=8643552a3ca24585b4084a4fb20f5acf"></iframe>
 +++
+### Some Examples
+##### Story Map Cascade
+<iframe class = "stretch" data-src = "https://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=08c2849d3f1649758e40b8cfa67d0248"></iframe>
 +++
 ### Some Examples
 ##### Story Map Cascade
-<iframe class = "stretch" data-srcv = "https://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=08c2849d3f1649758e40b8cfa67d0248"></iframe>
+<iframe class = "stretch" data-src = "https://kentuckyblackfreedom.org/kentucky-freedom-struggle/index.html"></iframe>
 +++
 ### Some Examples
 ##### Story Map Cascade
-<iframe class = "stretch" data-srcv = "https://kentuckyblackfreedom.org/kentucky-freedom-struggle/index.html"></iframe>
-+++
-### Some Examples
-##### Story Map Cascade
-<iframe class = "stretch" data-srcv = https://storymaps.esri.com/stories/2018/anthropocene/2-the-land.html"></iframe>
+<iframe class = "stretch" data-src = "https://storymaps.esri.com/stories/2018/anthropocene/2-the-land.html"></iframe>
 ---
 @title[helpful links]
 - http://www.ulcgis.org

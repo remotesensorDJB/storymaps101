@@ -244,7 +244,7 @@ a set of spatial data, text, and multimedia content.
 <iframe class = "stretch" data-src = "https://centerforgis.maps.arcgis.com/apps/MapSeries/index.html?appid=e7fd5854dbab435b944c27913df01980"></iframe>
 +++
 ### Story Map Templates
-##### [Map Journal Template](https://storymaps.arcgis.com/en/app-list/map-journal/)Map Journal Template
+##### [Map Journal Template](https://storymaps.arcgis.com/en/app-list/map-journal/)
 - More "narrative" in organization
 - User scrolls through text, while map pans and zooms to linked locations
 +++

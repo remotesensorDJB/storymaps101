@@ -239,16 +239,16 @@ a set of spatial data.
 +++
 ###Some Examples
 ##### Story Map Series
-<iframe class="stretch" data-src="http://centerforgis.maps.arcgis.com/apps/MapSeries/index.html?appid=6075857164044d528bda12115bd1ab25"><iframe>
+<iframe class = "stretch" data-src = "http://centerforgis.maps.arcgis.com/apps/MapSeries/index.html?appid=6075857164044d528bda12115bd1ab25"></iframe>
 +++
 ### Some Examples
 ##### Swipe Compare Story Map
-<iframe class = "stretch" data-src="http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=8643552a3ca24585b4084a4fb20f5acf"></iframe>
-+++
+<iframe class = "stretch" data-src = "http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=8643552a3ca24585b4084a4fb20f5acf"></iframe>
 +++
 ### Some Examples
 ##### Spyglass Compare Story Map
 <iframe class = "stretch" data-src="
+---
 @title[helpful links]
 - http://www.ulcgis.org
 - https://www.esri.com

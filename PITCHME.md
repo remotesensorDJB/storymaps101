@@ -270,7 +270,7 @@ a set of spatial data, text, and multimedia content.
 +++
 ### Story Map Templates
 ##### Swipe/Spyglass Template
-<iframe class = "stretch" data-src = "https://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0e7b82f7d4d27a5f732cd386a956e"></iframe>
+<iframe class = "stretch" data-src = "http://techsupportuk.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=e5160a8d1d3649f09a756c317bd0b56b"></iframe>
 +++
 ### Story Map Templates
 ##### [Cascade Template](https://storymaps.arcgis.com/en/app-list/cascade/) 

@@ -215,7 +215,7 @@ a set of spatial data.
 - Measure twice, cut once! 
 +++
 ### How do we build Story Maps?
-###### ["Principles of Cartographic Design"](http://www.neercartography.com/principles-of-cartographic-design/)
+###### ["Principles of Cartographic Design"](https://www.gislounge.com/principles-of-cartographic-design/)
 ###### of the British Cartographic Society
 1. Concept before compliation
 2. Hierarchy with harmony

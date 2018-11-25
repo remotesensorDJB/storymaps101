@@ -176,6 +176,51 @@ Two main Story Map platforms...
 **Story Map**: A web app template that builds narratives around
 a set of spatial data. 
 ![story map](images/storymap.PNG)
++++
+### How do we build Story Maps?
+##### Three ways...
+- Story Map Builder (Five Minute Story Map)
+- Build web map & share as web app (Story Map of Thrones)
+- Download and configure (for advanced users)
++++
+### How do we build Story Maps?
+##### Guiding Principles
+**Know your audience**
+- Don't assume they know your intent or how things work. **Explain it**. 
+- Keep the language low level. Avoid techno-babble.
+- Remember: You won't be there to hold their hand!
++++
+### How do we build Story Maps?
+##### Guiding Principles
+**Start with a bang!**
+- First impressions count, so lead off with an engaging video, image, title, etc.
+- Keep them engaged
+- You are competing for their attention with the ENTIRE Internet!
++++
+### How do we build Story Maps?
+##### Guiding Principles
+**Visual simplicity rules the day**
+- Keep visual clutter to a minimum
+- Let the data speak!
+- Choose a basemap that emphasizes your data rather than overshadows it.
++++
+### How do we build Story Maps?
+##### Guiding Principles
+**Choose your template wisely**
+- What is the purpose of your Story Map?
+    - Sequential story?
+    - Comparing two datasets?
+    - List of locations?
+- It is difficult to change templates mid-project
+- Measure twice, cut once! 
++++
+###### ["Principles of Cartographic Design"](http://www.neercartography.com/principles-of-cartographic-design/)
+###### of the British Cartographic Society
+1. Concept before compliation
+2. Hierarchy with harmony
+3. Simplicity from sacrifice
+4. Maximum information at minimum costs
+5. Engage the emotion to engage the understanding  
 ---
 @title[helpful links]
 - http://www.ulcgis.org

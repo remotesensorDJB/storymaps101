@@ -242,12 +242,29 @@ a set of spatial data.
 <iframe class = "stretch" data-src = "https://centerforgis.maps.arcgis.com/apps/MapSeries/index.html?appid=6075857164044d528bda12115bd1ab25"></iframe>
 +++
 ### Some Examples
-##### Swipe Compare Story Map
-<iframe class = "stretch" data-src = "http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=8643552a3ca24585b4084a4fb20f5acf"></iframe>
+##### Story Map Series
+<iframe class = "stretch" data-src = "https://centerforgis.maps.arcgis.com/apps/MapSeries/index.html?appid=e7fd5854dbab435b944c27913df01980"></iframe>
 +++
 ### Some Examples
-##### Spyglass Compare Story Map
-<iframe class = "stretch" data-src="
+##### Story Map Journal
+<iframe class = "stretch" data-src = "http://centerforgis.maps.arcgis.com/apps/MapJournal/index.html?appid=7c3e27c2078f4e17a30b6b8b141998bc"></iframe>
++++
+### Some Examples
+##### Swipe Compare Story Map
+<iframe class = "stretch" data-src = "https://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=8643552a3ca24585b4084a4fb20f5acf"></iframe>
++++
++++
+### Some Examples
+##### Story Map Cascade
+<iframe class = "stretch" data-srcv = "https://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=08c2849d3f1649758e40b8cfa67d0248"></iframe>
++++
+### Some Examples
+##### Story Map Cascade
+<iframe class = "stretch" data-srcv = "https://kentuckyblackfreedom.org/kentucky-freedom-struggle/index.html"></iframe>
++++
+### Some Examples
+##### Story Map Cascade
+<iframe class = "stretch" data-srcv = https://storymaps.esri.com/stories/2018/anthropocene/2-the-land.html"></iframe>
 ---
 @title[helpful links]
 - http://www.ulcgis.org

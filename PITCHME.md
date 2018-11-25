@@ -214,6 +214,7 @@ a set of spatial data.
 - It is difficult to change templates mid-project
 - Measure twice, cut once! 
 +++
+### How do we build Story Maps?
 ###### ["Principles of Cartographic Design"](http://www.neercartography.com/principles-of-cartographic-design/)
 ###### of the British Cartographic Society
 1. Concept before compliation

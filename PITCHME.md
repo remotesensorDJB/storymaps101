@@ -177,8 +177,8 @@ Two main Story Map platforms...
 +++
 ### How do we build Story Maps?
 ##### ArcGIS Online Key Terms
-**Story Map**: A web app template that builds narratives around
-a set of spatial data, text, and multimedia content. 
+<span style="font-size:0.6em">**Story Map**: A web app template that builds narratives around
+a set of spatial data, text, and multimedia content.</span> 
 
 ![story map](images/storymap.PNG)
 +++

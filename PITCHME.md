@@ -7,6 +7,7 @@
 ###### D.J. Biddle, GISP
 ###### Use the @fa[angle-down] and @fa[angle-right] arrows to navigate
 ---
+
 @title[About Me]
 ### About me...
 
@@ -68,6 +69,7 @@
 - More resources
 - Live Exercise: A Story Map of Thrones
 ---
+
 @title[The Five Minute Story Map]
 ### The Plan
 - **Demo: The Five Minute Story Map!**

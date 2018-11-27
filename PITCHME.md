@@ -18,7 +18,45 @@
 - Support research (faculty and student)
 - Technical Support to campus GIS users
 @ulend
----
++++
+
+@title[About Me]
+### About Me
+@css[fragment](I make maps...)@css[fragment](and web mapping applications...)@css[fragment](and wrangle spatial data...)@css[fragment](to create visualizations that tell a story about physical or social phenomena.)
++++
+
+**Everything from glaciers in South America...**
+![glacier mapping](images/glaciers.PNG)
++++
+
+**To Bird Scooter usage in my hometown...**
+![bird scooter map](images/birdmap.PNG) 
++++
+
+@css[fragment](**My training is in physical geography and geospatial technology...**)
+
+@css[fragment](**but increasingly I work with folks outside my discipline**) 
++++
+
+**Folks from...**
+- Urban planning |
+- Humanities |
+- Engineering |
+- Biology |
+- Social work |
+- Anthropology | 
+- And more... |
++++
+
+#### The Spatial Advantage
+@css[fragment](Geographers know that where things happen, and how the locations of different people, events, and natural phenomena relate to each other is KEY to understanding them.)
+
+@css[fragment](Digital mapping and spatial thinking are being recognized as an essential component of projects that cross traditional disciplinary boundaries.) 
++++
+
+#### Complete the following statement...
+@css[fragment](Everything happens...) @css[fragment](SOMEWHERE!) 
++++
 @title[The Plan]
 ### The Plan
 - Demo: The Five Minute Story Map!
@@ -43,9 +81,9 @@
 +++
 @title[The Five Minute Story Map]
 ### The Five Minute Story Map
-Creating Story Maps is EASY! You can make one in literally five minutes! 
+Creating Story Maps is EASY...You can make one in literally five minutes! 
 
-Here's how to do it!
+Here's how to do it...
 
 ##### [The Five Minute Story Map](https://docs.google.com/document/d/17qBNC64tqLMRPlIPAIV4bPz1utKzhUq6mv6vEbwQeYc/edit?usp=sharing)
 --- 
@@ -65,17 +103,16 @@ Here's how to do it!
 +++
 ### What are Story Maps?
 > @size[.6em] Story Maps leverage modern web development tools to provide an  **engaging, dynamic user experience** that grounds your story in its **geographic setting**.
-@ul
-- Everything happens...
-- Somewhere!
-@ulend
 +++
+
 ### What are Story Maps? 
 > @size[.6em] Story Maps are hosted applications that live in the cloud through common storymapping platforms like [ESRI Story Maps](https://storymaps.esri.com), or [KnightLab StoryMapJS](https://storymap.knightlab.com/) 
 +++
+
 ### What are Story Maps? 
 > @size[.6em] Story Maps are **free** and **open source**. Users can download and customize them right from the source code. Most Story Map template source code is hosted on [Github](https://www.google.com/search?q=esri+story+maps+github). 
 ---
+
 @title[Why use Story Maps?]
 ### The Plan
 - ~~Demo: The Five Minute Story Map!~~
@@ -87,15 +124,19 @@ Here's how to do it!
 - More resources
 - Live Exercise: A Story Map of Thrones
 +++
+
 ### Why use Story Maps? 
 > @size[.6em] Story Maps are an easy and effective way to share research results, fieldwork experiences, student project presentations, or engaged scholarship efforts. 
 +++
+
 ### Why use Story Maps? 
 > @size[.6em] Story Maps communicate information in an entertaining and engaging way that traditional presentations (posters, web pages, white papers, etc) often lack. 
 +++
+
 ### Why use Story Maps? 
 > @size[.6em] ESRI's Story Maps platform features **responsive** templates that display correctly in all modern web-browsers, including mobile device browsers. They are O/S and browser **agnostic**. 
 +++
+
 ### Why use Story Maps? 
 > @size[.6em] In the classroom, Story Maps make wonderful **group projects**, that help students develop some basic technical skills in **web-based GIS** and **WYSIWYG web development**. 
 +++
@@ -114,7 +155,7 @@ Here's how to do it!
 - Live Exercise: A Story Map of Thrones
 +++
 ### Activity: Check out the Story Maps Gallery
-- **Time**: 5 minutes
+- **Time**: 5-10 minutes
 - **Task**: Go to [ESRI's Story Maps Gallery](http://storymaps.arcgis.com/en/gallery/) and browse the public Story Maps
 - **Objective**: Find one story map that you find compelling
 +++

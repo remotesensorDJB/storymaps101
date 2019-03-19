@@ -1,104 +1,35 @@
 @title[Story Maps 101]
 ### Story Maps 
 ### 101
-#### Trinity University FLC 
-##### November 27th, 2018
 @fa[fa-globe]
-###### D.J. Biddle, GISP
-###### Use the @fa[angle-down] and @fa[angle-right] arrows to navigate
 ---
-
-@title[About Me]
-### About me...
-
-@ul
-- GIS Technology Consultant
-- University of Louisville Center for GIS
-- 15 Years in GIS/Mapping
-- Teach courses in GIS (including web mapping)
-- Support research (faculty and student)
-- Technical Support to campus GIS users
-@ulend
-+++
-
-@title[About Me]
-### About Me
-@css[fragment](I make maps...)@css[fragment](and web mapping applications...)@css[fragment](and wrangle spatial data...)@css[fragment](to create visualizations that tell a story about physical or social phenomena.)
-+++
-
-**Everything from glaciers in South America...**
-![glacier mapping](images/glaciers.PNG)
-+++
-
-**To Bird Scooter usage in my hometown...**
-![bird scooter map](images/birdmap.PNG) 
-+++
-
-@css[fragment](**My training is in physical geography and geospatial technology...**)
-
-@css[fragment](**but increasingly I work with folks outside my discipline**) 
-+++
-
-**Folks from...**
-- Urban planning |
-- Humanities |
-- Engineering |
-- Biology |
-- Social work |
-- Anthropology | 
-- And more... |
-+++
-
-#### The Spatial Advantage
-@css[fragment](Geographers know that where things happen, and how the locations of different people, events, and natural phenomena relate to each other is KEY to understanding them.)
-
-@css[fragment](Digital mapping and spatial thinking are being recognized as an essential component of projects that cross traditional disciplinary boundaries.) 
-+++
-
-#### Complete the following statement...
-@css[fragment](Everything happens...) @css[fragment](SOMEWHERE!) 
-+++
 @title[The Plan]
 ### The Plan
-- Demo: The Five Minute Story Map!
 - What are Story Maps? 
 - Why use Story Maps? 
 - Activity: Check out the Story Maps Gallery 
 - How do we build Story Maps? 
 - Story Map Templates
 - More resources
-- Live Exercise: A Story Map of Thrones
 ---
 
 @title[The Five Minute Story Map]
 ### The Plan
-- **Demo: The Five Minute Story Map!**
 - What are Story Maps? 
 - Why use Story Maps? 
 - Activity: Check out the Story Maps Gallery 
 - How do we build Story Maps? 
 - Story Map Templates
 - More resources
-- Live Exercise: A Story Map of Thrones
 +++
-@title[The Five Minute Story Map]
-### The Five Minute Story Map
-Creating Story Maps is EASY...You can make one in literally five minutes! 
-
-Here's how to do it...
-
-##### [The Five Minute Story Map](https://docs.google.com/document/d/17qBNC64tqLMRPlIPAIV4bPz1utKzhUq6mv6vEbwQeYc/edit?usp=sharing)
---- 
 @title[What are Story Maps?]
 ### The Plan
-- ~~Demo: The Five Minute Story Map!~~
 - **What are Story Maps?** 
 - Why use Story Maps?
 - Activity: Check out the Story Maps Gallery 
 - How Do we build Story Maps? 
 - Story Map Templates
 - More resources
-- Live Exercise: A Story Map of Thrones
 +++
 ### What are Story Maps? 
 > @size[.6em] Story Maps are **lightweight web applications** that mash up interactive GIS **maps**, photos/videos and other **multimedia content**, and text-based **narratives**, to tell a story about places or phenomena that are explicitly located in space and time. 
@@ -117,14 +48,12 @@ Here's how to do it...
 
 @title[Why use Story Maps?]
 ### The Plan
-- ~~Demo: The Five Minute Story Map!~~
 - ~~What are Story Maps?~~ 
 - **Why use Story Maps?** 
 - Activity: Check out the Story Maps Gallery 
 - How do we build Story Maps? 
 - Story Map Templates
 - More resources
-- Live Exercise: A Story Map of Thrones
 +++
 
 ### Why use Story Maps? 
@@ -147,14 +76,12 @@ Here's how to do it...
 ---
 @title[Activity: Check out the Story Maps Gallery]
 ### The Plan
-- ~~Demo: The Five Minute Story Map!~~
 - ~~What are Story Maps?~~ 
 - ~~Why should we use them?~~ 
 - **Activity: Check out the Story Maps Gallery** 
 - How do we build Story Maps? 
 - Story Map Templates
 - More resources
-- Live Exercise: A Story Map of Thrones
 +++
 ### Activity: Check out the Story Maps Gallery
 - **Time**: 5-10 minutes
@@ -169,14 +96,12 @@ Take note of...
 ---
 @title[Activity: How do we build Story Maps]
 ### The Plan
-- ~~Demo: The Five Minute Story Map!~~
 - ~~What are Story Maps?~~ 
 - ~~Why should we use them?~~ 
 - ~~Activity: Check out the Story Maps Gallery~~ 
 - **How do we build Story Maps?** 
 - Story Map Templates
 - More resources
-- Live Exercise: A Story Map of Thrones
 +++
 ### How do we build Story Maps?
 Two main Story Map platforms...
@@ -263,14 +188,12 @@ a set of spatial data, text, and multimedia content.</span>
 ---
 @title[Example Story Maps]
 ### The Plan
-- ~~Demo: The Five Minute Story Map!~~
 - ~~What are Story Maps?~~ 
 - ~~Why should we use them?~~ 
 - ~~Activity: Check out the Story Maps Gallery~~ 
 - ~~How do we build Story Maps?~~ 
 - **Story Map Templates**
 - More resources
-- Live Exercise: A Story Map of Thrones
 +++
 ### Story Map Templates
 ##### [Map Tour Template](https://storymaps.arcgis.com/en/app-list/map-tour/) 
@@ -340,14 +263,12 @@ a set of spatial data, text, and multimedia content.</span>
 ---
 @title[More Resources]
 ### The Plan
-- ~~Demo: The Five Minute Story Map!~~
 - ~~What are Story Maps?~~ 
 - ~~Why should we use them?~~ 
 - ~~Activity: Check out the Story Maps Gallery~~ 
 - ~~How do we build Story Maps?~~ 
 - ~~Story Map Templates~~
 - **More resources**
-- Live Exercise: A Story Map of Thrones
 +++
 @title[More Resources]
 ### More Resources
@@ -359,22 +280,13 @@ a set of spatial data, text, and multimedia content.</span>
 ---
 @title[Example Story Maps]
 ### The Plan
-- ~~Demo: The Five Minute Story Map!~~
 - ~~What are Story Maps?~~ 
 - ~~Why should we use them?~~ 
 - ~~Activity: Check out the Story Maps Gallery~~ 
 - ~~How do we build Story Maps?~~ 
 - ~~Story Map Templates~~
 - ~~More resources~~
-- **Live Exercise: A Story Map of Thrones**
 +++
-### Live Exercise: A Story Map of Thrones
-- **Time**: ~45 minutes
-- **Task**: Guided exercise to build a Cascade Story Map
-- **Objective**: Learn to upload data, create a web map, and create a Cascade Story Map.
-
-[A Story Map of Thrones!](https://docs.google.com/document/d/1GKNUkv7X6YJ0B-2siHUD2ZypOz47hA9IP3LfYg0GRvk/edit?usp=sharing)
---- 
 @title[questions?]
 ### Any questions? 
 Please email me at <djbidd01@louisville.edu>

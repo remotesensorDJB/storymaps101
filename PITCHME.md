@@ -11,16 +11,6 @@
 - How do we build Story Maps? 
 - Story Map Templates
 - More resources
----
-
-@title[The Five Minute Story Map]
-### The Plan
-- What are Story Maps? 
-- Why use Story Maps? 
-- Activity: Check out the Story Maps Gallery 
-- How do we build Story Maps? 
-- Story Map Templates
-- More resources
 +++
 @title[What are Story Maps?]
 ### The Plan

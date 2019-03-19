@@ -27,7 +27,7 @@
 - **What are Story Maps?** 
 - Why use Story Maps?
 - Activity: Check out the Story Maps Gallery 
-- How Do we build Story Maps? 
+- How do we build Story Maps? 
 - Story Map Templates
 - More resources
 +++

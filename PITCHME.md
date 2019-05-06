@@ -90,7 +90,7 @@
 +++
 
 @title[gis layers concept]
-![GIS Layers Concept](images/GIS-layers.jpg)
+![GIS Layers Concept](images/layers.jpg)
 +++
 
 @title[gis database concept]

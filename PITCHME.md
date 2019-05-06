@@ -1,8 +1,8 @@
 @title[Story Maps 101]
 ### Story Maps 
 ### 101
-#### Trinity University FLC 
-##### November 27th, 2018
+#### University of Louisville DHRI 
+##### May 8th, 2019
 @fa[fa-globe]
 ###### D.J. Biddle, GISP
 ###### Use the @fa[angle-down] and @fa[angle-right] arrows to navigate
@@ -12,7 +12,7 @@
 ### About me...
 
 @ul
-- GIS Technology Consultant
+- GIS Research Manager
 - University of Louisville Center for GIS
 - 15 Years in GIS/Mapping
 - Teach courses in GIS (including web mapping)
@@ -30,7 +30,7 @@
 ![glacier mapping](images/glaciers.PNG)
 +++
 
-**To Bird Scooter usage in my hometown...**
+**To Bird Scooter usage in my Louisville...**
 ![bird scooter map](images/birdmap.PNG) 
 +++
 
@@ -60,6 +60,7 @@
 +++
 @title[The Plan]
 ### The Plan
+- GIS and the Humanities
 - Demo: The Five Minute Story Map!
 - What are Story Maps? 
 - Why use Story Maps? 
@@ -69,9 +70,25 @@
 - More resources
 - Live Exercise: A Story Map of Thrones
 ---
+@title[The Five Minute Story Map]
+### The Plan
+- **GIS and the Humanities**
+- Demo: The Five Minute Story Map!
+- What are Story Maps? 
+- Why use Story Maps? 
+- Activity: Check out the Story Maps Gallery 
+- How do we build Story Maps? 
+- Story Map Templates
+- More resources
+- Live Exercise: A Story Map of Thrones
++++
++++
+@title[GIS and the Humanities]
+### GIS and the Humanities
 
 @title[The Five Minute Story Map]
 ### The Plan
+- ~~GIS and the Humanities~~
 - **Demo: The Five Minute Story Map!**
 - What are Story Maps? 
 - Why use Story Maps? 
@@ -91,6 +108,7 @@ Here's how to do it...
 --- 
 @title[What are Story Maps?]
 ### The Plan
+- ~~GIS and the Humanities~~
 - ~~Demo: The Five Minute Story Map!~~
 - **What are Story Maps?** 
 - Why use Story Maps?
@@ -117,6 +135,7 @@ Here's how to do it...
 
 @title[Why use Story Maps?]
 ### The Plan
+- ~~GIS and the Humanities~~
 - ~~Demo: The Five Minute Story Map!~~
 - ~~What are Story Maps?~~ 
 - **Why use Story Maps?** 
@@ -147,6 +166,7 @@ Here's how to do it...
 ---
 @title[Activity: Check out the Story Maps Gallery]
 ### The Plan
+- ~~GIS and the Humanities~~
 - ~~Demo: The Five Minute Story Map!~~
 - ~~What are Story Maps?~~ 
 - ~~Why should we use them?~~ 
@@ -169,6 +189,7 @@ Take note of...
 ---
 @title[Activity: How do we build Story Maps]
 ### The Plan
+- ~~GIS and the Humanities~~
 - ~~Demo: The Five Minute Story Map!~~
 - ~~What are Story Maps?~~ 
 - ~~Why should we use them?~~ 
@@ -263,6 +284,7 @@ a set of spatial data, text, and multimedia content.</span>
 ---
 @title[Example Story Maps]
 ### The Plan
+- ~~GIS and the Humanities~~
 - ~~Demo: The Five Minute Story Map!~~
 - ~~What are Story Maps?~~ 
 - ~~Why should we use them?~~ 
@@ -340,6 +362,7 @@ a set of spatial data, text, and multimedia content.</span>
 ---
 @title[More Resources]
 ### The Plan
+- ~~GIS and the Humanities~~
 - ~~Demo: The Five Minute Story Map!~~
 - ~~What are Story Maps?~~ 
 - ~~Why should we use them?~~ 
@@ -359,6 +382,7 @@ a set of spatial data, text, and multimedia content.</span>
 ---
 @title[Example Story Maps]
 ### The Plan
+- ~~GIS and the Humanities~~
 - ~~Demo: The Five Minute Story Map!~~
 - ~~What are Story Maps?~~ 
 - ~~Why should we use them?~~ 

@@ -227,8 +227,8 @@ Here's how to do it...
 ### Activity: Check out the Story Maps Gallery
 Take note of...
 - **Why** you find it effective (the topic itself? organization?, multimedia content?)
-- **What** could be improved upon. 
-- **How** you might employ a similar map in your own teaching and/or research
+- **What** could be improved upon?  
+- **How** you might employ a similar map in your own teaching and/or research?
 ---
 @title[Activity: How do we build Story Maps]
 ### The Plan

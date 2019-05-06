@@ -70,7 +70,7 @@
 - More resources
 - Live Exercise: A Story Map of Thrones
 ---
-@title[The Five Minute Story Map]
+@title[GIS and the Humanities]
 ### The Plan
 - **GIS and the Humanities**
 - Demo: The Five Minute Story Map!
@@ -84,7 +84,7 @@
 +++
 @title[GIS and the Humanities]
 ### GIS and the Humanities
-+++
+---
 @title[The Five Minute Story Map]
 ### The Plan
 - ~~GIS and the Humanities~~

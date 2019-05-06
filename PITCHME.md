@@ -81,7 +81,6 @@
 - Story Map Templates
 - More resources
 - Live Exercise: A Story Map of Thrones
-
 +++
 @title[GIS and the Humanities]
 ### GIS and the Humanities

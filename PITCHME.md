@@ -83,7 +83,50 @@
 - Live Exercise: A Story Map of Thrones
 +++
 @title[GIS and the Humanities]
+### GIS Refresher
+> @size[.6em](A geographic information system <GIS> is a framework for gathering, managing, and analyzing data. Rooted in the science of geography, GIS integrates many types of data. It analyzes spatial location and organizes layers of information into visualizations using maps and 3D scenes. ​With this unique capability, GIS reveals deeper insights into data, such as patterns, relationships, and situations—helping users make smarter decisions.) 
+**-Environmental  Systems Research Institute (ESRI)**
++++
+
+@title[gis layers concept]
+![GIS Layers Concept](images/GIS-layers.jpg)
++++
+
+@title[gis database concept]
+![GIS Database Link](images/link.png)
++++
+
+@title[gis applications]
+![GIS Applications](images/gis-applications.jpg)
++++
+
+@title[GIS and the Humanities]
 ### GIS and the Humanities
+- Recent move towards "Digital Humanities" |
+- Digital Humanities Initiatives popping up all over the place! |
+- What is Digital Humanities? |
++++
+
+###### Digital Humanities
+**A useful definition**
+> @size[.6em]("The phrase Digital Humanities… describes not just a collective singular but also the humanities in the plural, able to address and engage disparate subject matters across **media**, language, **location**, and history. But, however heterogeneous, the Digital Humanities is unified by its emphasis on making, connecting, interpreting, and collaborating") 
+
+- <span STYLE = "font-size:.6em">["Digital Humanities"](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), by Anne Burdick, Johanna Drucker, Peter Lunenfeld, Todd Presner, Jeffrey Schnapp</span>
++++
+
+**And another...**
+> @size[.6em]("DH values collaboration, plurality, investigation of human culture, and the disruption of and reflection on traditional practices...the **use of digital technology for humanities projects changes the user’s experience**. The term “digital humanities” is very broad, and contains multitudes, but examples of “digital humanities” practices might include the **use of existing digital tools for research, to display data in new and revelatory ways, or to bring research to new audiences**.")
+
+- <span STYLE = "font-size:.6em">[THATCamp LAC 2012](http://thatcamp.org/), from a collaborative [Glossary of Digital Humanities](https://docs.google.com/document/d/129_260mbp6C6JaqmylmhMTXA1sv7YYQ0OLsAOAOoCJE/edit?usp=sharing)</span>
++++
+
+![books](images/books.png)
++++
+
+Why are we here today?  
+
+@css[fragment](**Digital Storymapping** represents an friendly introduction to the potential intersections of GIS and digital humanities scholarship.)  
+
 ---
 @title[The Five Minute Story Map]
 ### The Plan

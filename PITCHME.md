@@ -30,7 +30,7 @@
 ![glacier mapping](images/glaciers.PNG)
 +++
 
-**To Bird Scooter usage in my Louisville...**
+**To Bird Scooter usage in Louisville...**
 ![bird scooter map](images/birdmap.PNG) 
 +++
 
@@ -416,6 +416,9 @@ a set of spatial data, text, and multimedia content.</span>
 - Live Exercise: A Story Map of Thrones
 +++
 @title[More Resources]
+### Resources used in today's workshop  
+[UofL DHRI Storymapping Workshop Resources](https://drive.google.com/drive/folders/1_R6NOqbsN-RPT0yfBu1GiJu8Ri5cSa6l)
++++
 ### More Resources
 - https://www.esri.com/arcgis-blog/story-maps/
 - https://adventuresinmapping.com/
@@ -440,7 +443,7 @@ a set of spatial data, text, and multimedia content.</span>
 - **Task**: Guided exercise to build a Cascade Story Map
 - **Objective**: Learn to upload data, create a web map, and create a Cascade Story Map.
 
-[A Story Map of Thrones!](https://docs.google.com/document/d/1GKNUkv7X6YJ0B-2siHUD2ZypOz47hA9IP3LfYg0GRvk/edit?usp=sharing)
+[A Story Map of Thrones!](https://docs.google.com/document/d/15BdaXWUlUJ33aG67Wl1Ky87eT-AQDIJTD_4Vvyogowc/edit?usp=sharing)
 --- 
 @title[questions?]
 ### Any questions? 

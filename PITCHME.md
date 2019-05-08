@@ -136,7 +136,7 @@ How does GIS fit into humanities research?
 ### GIS and DH Applications
 
 May be as simple as location mapping...  
-<iframe class = "stretch" data-src="https://www.artistsinparis.org/#@261848.15527273554,6250566.718238154&z=13.00&y=1675&g=s,hp,p,gp,l,slp,e,o"></iframe>
+<iframe class = "stretch" data-src="https://www.artistsinparis.org/"></iframe>
 +++
 
 ### GIS and DH Applications

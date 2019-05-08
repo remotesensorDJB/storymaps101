@@ -141,15 +141,14 @@ May be as simple as location mapping...
 
 ### GIS and DH Applications
 
-Or implement advanced spatial analysis
+[Or implement advanced spatial analysis](http://eprints.lancs.ac.uk/81425/1/Donaldson_et_al_Historical_Atlas.pdf)
 ![text mapping](images/text_map.JPG)
-[Donaldson, et al. 2017](http://eprints.lancs.ac.uk/81425/1/Donaldson_et_al_Historical_Atlas.pdf)
+
 +++
 
 ### GIS and DH Applications
-  
-<iframe class = "stretch" data-src="http://anterotesis.com/wordpress/mapping-resources/dh-gis-projects/"></iframe> 
-[Anterotesis DH Projects](http://anterotesis.com/wordpress/mapping-resources/dh-gis-projects/) 
+
+[Anterotesis DH Projects Directory](http://anterotesis.com/wordpress/mapping-resources/dh-gis-projects/) 
 +++
   
 Why are we here today?  

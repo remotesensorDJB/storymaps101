@@ -50,7 +50,7 @@
 +++
 
 #### The Spatial Advantage
-@css[fragment](Geographers know that where things happen, and how the locations of different people, events, and natural phenomena relate to each other is KEY to understanding them.)
+@css[fragment](Geographers know that where things happen, and the spatial relationships between people, events, and natural phenomena is KEY to understanding them.)
 
 @css[fragment](Digital mapping and spatial thinking are being recognized as an essential component of projects that cross traditional disciplinary boundaries.) 
 +++
@@ -58,6 +58,7 @@
 #### Complete the following statement...
 @css[fragment](Everything happens...) @css[fragment](SOMEWHERE!) 
 +++
+  
 @title[The Plan]
 ### The Plan
 - GIS and the Humanities
@@ -101,10 +102,18 @@
 ![GIS Applications](images/gis-applications.jpg)
 +++
 
+@title[gis data primer]
+### A Deeper Dive 
+
+[Geospatial Data Primer](https://drive.google.com/open?id=1PwLJnCs8xYBT5MBY09TOmIdtfJ0uNLLHh6gMNR3Fg9o) 
++++
+
 @title[GIS and the Humanities]
-### GIS and the Humanities
-- Recent move towards "Digital Humanities" |
-- Digital Humanities Initiatives popping up all over the place! |
+### GIS and the Humanities  
+  
+How does GIS fit into humanities research? 
+ 
+- "Digital Humanities" |
 - What is Digital Humanities? |
 +++
 
@@ -124,6 +133,25 @@
 ![books](images/books.png)
 +++
 
+### GIS and DH Applications
+
+May be as simple as location mapping...  
+<iframe class = "stretch" data-src="https://www.artistsinparis.org/#@261848.15527273554,6250566.718238154&z=13.00&y=1675&g=s,hp,p,gp,l,slp,e,o"></iframe>
++++
+
+### GIS and DH Applications
+
+Or implement advanced spatial analysis
+![text mapping](images/text_map.JPG)
+[Donaldson, et al. 2017](http://eprints.lancs.ac.uk/81425/1/Donaldson_et_al_Historical_Atlas.pdf)
++++
+
+### GIS and DH Applications
+  
+<iframe class = "stretch" data-src="http://anterotesis.com/wordpress/mapping-resources/dh-gis-projects/"></iframe> 
+[Anterotesis DH Projects](http://anterotesis.com/wordpress/mapping-resources/dh-gis-projects/) 
++++
+  
 Why are we here today?  
 
 @css[fragment](**Digital Storymapping** represents an friendly introduction to the potential intersections of GIS and digital humanities scholarship.)  

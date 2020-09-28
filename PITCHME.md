@@ -1,8 +1,8 @@
 @title[Story Maps 101]
 ### Story Maps 
 ### 101
-#### Trinity University FLC 
-##### November 27th, 2018
+#### A Virtual Workshop 
+##### University of Louisville Center for GIS
 @fa[fa-globe]
 ###### D.J. Biddle, GISP
 ###### Use the @fa[angle-down] and @fa[angle-right] arrows to navigate
@@ -12,11 +12,10 @@
 ### About me...
 
 @ul
-- GIS Technology Consultant
-- University of Louisville Center for GIS
+- Director of the University of Louisville Center for GIS
 - 15 Years in GIS/Mapping
 - Teach courses in GIS (including web mapping)
-- Support research (faculty and student)
+- Collaborate on research projects
 - Technical Support to campus GIS users
 @ulend
 +++
@@ -350,8 +349,8 @@ a set of spatial data, text, and multimedia content.</span>
 - Live Exercise: A Story Map of Thrones
 +++
 @title[More Resources]
-### More Resources
 - https://www.esri.com/arcgis-blog/story-maps/
+https://www.esri.com/arcgis-blog/story-maps/### More Resources
 - https://adventuresinmapping.com/
 - https://www.esri.com/training/
 - https://www.esri.com/about/newsroom/arcuser/make-your-story-map-successful/ 

@@ -352,7 +352,6 @@ a set of spatial data, text, and multimedia content.</span>
 +++
 @title[More Resources]
 - https://www.esri.com/arcgis-blog/story-maps/
-https://www.esri.com/arcgis-blog/story-maps/### More Resources
 - https://adventuresinmapping.com/
 - https://www.esri.com/training/
 - https://www.esri.com/about/newsroom/arcuser/make-your-story-map-successful/ 

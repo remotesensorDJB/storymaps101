@@ -157,7 +157,7 @@ Here's how to do it...
 +++
 ### Activity: Check out the Story Maps Gallery
 - **Time**: 5-10 minutes
-- **Task**: Go to [ESRI's Story Maps Gallery](http://storymaps.arcgis.com/en/gallery/) and browse the public Story Maps
+- **Task**: Go to [ESRI's Story Maps Gallery](https://storymaps.arcgis.com/en/gallery/) and browse the public Story Maps
 - **Objective**: Find one story map that you find compelling
 +++
 ### Activity: Check out the Story Maps Gallery
@@ -182,10 +182,12 @@ Two main Story Map platforms...
 - [KnightLab StoryMapJS](https://storymap.knightlab.com/)
     - Simple, interactive editing of locations and text
     - Basic interface with limited customizations
-- [ESRI Story Maps](https://storymaps.arcgis.com)
+- [ESRI Story Maps](https://storymaps-classic.arcgis.com)
     - Runs on ArcGIS Online web GIS 
     - Sophisticated data management tools
     - Template options for custom look and feel
+    - [ArcGIS Story Maps](https://storymaps.arcgis.com/stories)
+        - New version of ESRI Story Maps
 +++
 ### How do we build Story Maps?
 ##### ArcGIS Online
